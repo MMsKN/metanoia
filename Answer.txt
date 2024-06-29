@@ -1,0 +1,9 @@
+## Copilot
+Para fazer o fechamento do balanço patrimonial a longo prazo da loja exemplificada, siga estes passos:
+- Verifique as Contas: Confirme que todas as transações foram registradas corretamente nas contas apropriadas.
+- Avalie os Ativos e Passivos Não Circulantes: Certifique-se de que os valores dos ativos não circulantes estejam atualizados e que os passivos não circulantes reflitam as obrigações corretas.
+- Calcule a Depreciação: Para os ativos imobilizados, calcule e registre a depreciação acumulada.
+- Reconcilie o Patrimônio Líquido: Some o capital social, as reservas de capital e os lucros ou prejuízos acumulados.
+- Confirme o Equilíbrio: Assegure-se de que o total de ativos seja igual ao total de passivos mais o patrimônio líquido.
+- Prepare as Demonstrações Financeiras: Com todas as contas reconciliadas, prepare o balanço patrimonial final.
+Lembre-se de que este é um processo simplificado e que cada empresa pode ter especificidades que exigem atenção adicional. É sempre recomendável consultar um contador profissional para garantir precisão e conformidade com as normas contábeis aplicáveis. Precisa de ajuda com algo mais?
